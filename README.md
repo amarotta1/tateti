@@ -1,0 +1,2 @@
+# tateti
+Parcial Computacion
